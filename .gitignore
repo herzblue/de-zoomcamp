@@ -1,3 +1,6 @@
+# folder list
+/folder_name_list_creator
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
