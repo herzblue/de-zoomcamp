@@ -8,6 +8,12 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.11.9"
 pandas = "^2.2.3"
+pgcli = "^4.1.0"
+mycli = "^1.29.2"
+ipykernel = "^6.29.5"
+sqlalchemy = "^2.0.37"
+psycopg2 = "^2.9.10"
+jupyter = "^1.1.1"
 
 
 [build-system]

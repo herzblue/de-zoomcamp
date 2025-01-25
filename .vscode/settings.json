@@ -1,0 +1,6 @@
+{
+    "markdown.suggest.paths.enabled": false,
+    "markdown.validate.unusedLinkDefinitions.enabled": "ignore",
+    "markdown.suggest.paths.includeWorkspaceHeaderCompletions": "never",
+    "spellright.suggestionsInHints": true
+}
