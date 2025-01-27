@@ -1,6 +1,9 @@
 # service account key
 /.key
 
+# pgadmin
+*/vol-pgadmin_data
+
 # folder list
 /utils
 
